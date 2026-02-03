@@ -1,0 +1,11 @@
+.home-nav-order-history img {
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+  border-radius: 50%;
+  transition: transform 0.2s ease-in-out;
+}
+
+.home-nav-order-history img:hover {
+  transform: scale(1.1);
+}
